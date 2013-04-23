@@ -8,6 +8,9 @@
 -bin/
 -tmp/
 -Library/
+Library/*/*/*
+-Library/*/*/*
+-Library/*/*/
 -*.tmp
 -*.bak
 -*.swp
